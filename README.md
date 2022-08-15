@@ -1,2 +1,2 @@
 # NLPCrypto
-A repository to predict crypto using NLP techniques
+A repository to analyse cryptocurrency sentiments using NLP techniques
